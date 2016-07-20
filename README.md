@@ -14,7 +14,7 @@ As an example consider a Todo app using Redux:
 - if that fragment has changed those changes will be reflected
 - if it hasn't changed that will also be reflected, this depends on how naive the subsriber is
 
-This explodes in complexity for an sufficiently advanced app. It also largely has little to do with the intent of the user.
+This explodes in complexity for a sufficiently advanced app. And, in large part has little to do with the intent of the user.
 
 An idealized example:
 - user submits todo
